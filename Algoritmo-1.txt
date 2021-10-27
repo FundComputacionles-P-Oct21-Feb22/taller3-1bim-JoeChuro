@@ -1,0 +1,8 @@
+Algoritmo-1
+Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
+1.Inicio
+2.Preguntar el valor de la base del triangulo
+3.Preguntar el valor de la altura del triangulo
+4.Calcular el area del triangulo con el brocedimiento base x altura sobre 2
+5.Se muestra en pantalla el valor obtenido
+6.Fin
